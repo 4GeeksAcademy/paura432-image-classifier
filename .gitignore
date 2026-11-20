@@ -1,3 +1,6 @@
 __pycache__
 .env
 .learn
+# Dataset descargado y caché de imágenes redimensionadas (varios GB)
+data/raw/dogs-vs-cats/
+data/interim/*.npz
